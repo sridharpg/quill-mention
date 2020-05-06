@@ -80,8 +80,7 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
-
+.idea
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
@@ -102,3 +101,4 @@ dist
 
 # TernJS port file
 .tern-port
+/.idea/.gitignore
